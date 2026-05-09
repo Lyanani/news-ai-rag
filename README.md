@@ -42,11 +42,7 @@ GNews API (opsional) → GNEWS_API_KEY
 Cara Menjalankan
 
 1. Clone repository
-
-git clone https://github.com/12410619-ops/Final-Project-Expert-System.git cd Final-Project-Expert-System
-
 2. Install dependencies
-
 pip install -U google-genai chromadb beautifulsoup4 requests tenacity groq cloudscraper nest-asyncio PyPDF2 python-docx feedparser gradio
 
 🔧 Siapkan API Keys
