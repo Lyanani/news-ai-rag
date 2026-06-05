@@ -109,10 +109,6 @@ Hash duplikat: setiap konten di-hash MD5, disimpan di metadata Chroma, dicek seb
 Prioritas berita terakhir: variabel global last_added_content memastikan sistem menjawab dari berita yang baru diinput tanpa harus mencari database.
 Kontributor
 
-Kelompok 3 – Final Project Expert System
-
-Angginaloy, Syalom Mauren
-Lakoy, Gyssella Viola Visya
-Lonteng, Gea Paulina
+Final Project Expert System
 Nani, Natalya De Chantal Putri
-Walukow, Nadine Kristania
+
